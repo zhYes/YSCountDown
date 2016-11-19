@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "88810907-526a-4abd-a8a4-6277df42ee5c++3896" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "88810907-526a-4abd-a8a4-6277df42ee5c++3896" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0779801E-1BC2-4696-810F-293F91DF1356",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "88810907-526a-4abd-a8a4-6277df42ee5c++3896" : "%E5%8F%91%E5%A4%A7%E8%B4%A2-%E5%A4%A7%E6%B5%B7-%E6%9C%AC%E5%9C%B0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "定时器bug代码",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "定时器bug代码.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnchina.com\/svn\/fdc_app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88810907-526a-4abd-a8a4-6277df42ee5c++3896"
+    }
+  ]
+}
